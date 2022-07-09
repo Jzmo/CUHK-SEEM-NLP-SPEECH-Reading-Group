@@ -1,6 +1,6 @@
 # CUHK-SEEM-NLP-SPEECH-Reading-Group
 
-The target audience is (current)five members of a gossip & academic NLP and Speech group in CUHK SEEM Department and other possible interested participants.
+The target audience are five members of a gossip & academic NLP and Speech group in CUHK SEEM Department and other possible interested participants.
 
 The meeting takes place weekly during term for one hour usually on **Friday, 16:00-17:00 GMT+8 Time Zone**. 
 
